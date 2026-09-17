@@ -1,20 +1,60 @@
-10 sec | A small bear cub slipping on a frozen waterfall, desperately clinging to a thin branch as a massive blizzard rages.
-10 sec | A ragged orange fox sprinting through a collapsing junk yard, holding tightly onto a shiny lost locket.
-40 sec | A deer boy with broken horns dodging falling trees and flying debris in a violently windy dark forest.
-30 sec | A tiny rabbit burrowing frantically as its underground home starts to collapse from heavy rain flooding above.
-45 sec | A mother bear shielding her cub from a massive snow avalanche, pushing aggressively through deep freezing snow.
-50 sec | A lone penguin sliding uncontrollably down a massive cracking glacier, trying to reach the ocean before the ice shatters.
-35 sec | A fluffy white wolf pup tumbling down a steep snowy mountain, desperately trying to catch a falling glowing leaf.
-40 sec | A lost seal pup swimming frantically through a dark dangerous maze of sharp underwater ice crystals.
-45 sec | A shivering husky pulling a broken wooden sled through a blinding freezing blizzard, refusing to stop despite exhaustion.
-30 sec | A snow leopard jumping frantically across melting sinking ice chunks on a roaring dark river.
-50 sec | A rusty forgotten robot running through a futuristic scrapyard to save a fragile glowing flower from a massive dust storm.
-40 sec | A small alien child running away in terror from towering dark silhouettes in an abandoned rainy space port.
-35 sec | A toy soldier coming to life, struggling and crawling through a muddy flooded garden to return to its owner's house.
-45 sec | A mechanical bird with a broken wing hopping frantically to escape a violently rising dark tide on a rocky beach.
-60 sec | A discarded plush bunny getting washed down a rushing city gutter, fighting desperately to stay afloat in the dark water.
-40 sec | A baby elephant sliding down a steep muddy ravine, trying to desperately follow its herd in the pouring rain.
-35 sec | A sad monkey running through a crowded, uncaring city street in the rain holding a torn photograph of its family.
-50 sec | A tiny dragon who cannot fly, sprinting up a crumbling stone tower to escape a massive dark flood rushing below.
-30 sec | A scared raccoon darting aggressively through heavy street traffic in the rain to rescue a dropped shiny coin.
-45 sec | A homeless kitten dragging a heavy, wet blanket through a dark windy alleyway while a violent thunderstorm rages.
+45 sec | A brave young boy carrying his little sister through a flooded crumbling street, dodging floating cars.
+35 sec | A terrified mother running through a collapsing shopping mall during a massive earthquake.
+50 sec | An old man with a walking stick struggling to cross a swaying, breaking suspension bridge in a storm.
+40 sec | A young girl in a yellow raincoat running desperately from a massive fast-approaching mudslide.
+45 sec | A heroic rescue worker climbing a crumbling concrete wall to reach a trapped child in the ruins.
+35 sec | A brave teenager sliding down a steep snowy mountain, dodging massive falling ice boulders.
+55 sec | A frightened woman swimming through a dark flooded subway station, gasping for air.
+40 sec | A young boy running across a cracking glass roof of a skyscraper during a violent hurricane.
+45 sec | A father frantically digging through heavy rubble in the rain to find his lost family.
+50 sec | A blind man navigating a chaotic, collapsing city street using only his white cane in the fog.
+35 sec | A young girl jumping between floating pieces of a destroyed wooden pier in a roaring ocean.
+45 sec | A brave hiker running from a massive avalanche, leaping over deep dark snowy cracks.
+55 sec | A terrified boy hiding under a sturdy metal desk while the school building shakes violently.
+40 sec | A mother shielding her baby with her own body while massive hailstones smash the glass around them.
+50 sec | A young man sprinting down a crumbling rocky canyon path to outrun a flash flood.
+35 sec | A brave girl throwing a rope across a roaring muddy river to save her stranded friend.
+45 sec | A tired old woman dragging a heavy suitcase through a thick, blinding desert sandstorm.
+40 sec | A teenage boy swinging from a broken power cable to escape a collapsing balcony in the rain.
+50 sec | A heroic nurse carrying medical supplies through a completely flooded, dark hospital corridor.
+35 sec | A young girl running through a dense, foggy forest, looking back at terrifying pursuing shadows.
+45 sec | A father running with his child on his shoulders as the street behind them collapses into a sinkhole.
+55 sec | A brave boy clinging to a streetlamp pole while a massive tsunami wave crashes into the city.
+40 sec | A terrified teenager dodging falling statues and debris inside a crumbling ancient museum.
+50 sec | A young woman driving a small boat through a violently stormy sea to rescue a stranded sailor.
+35 sec | A boy slipping on a wet muddy cliff, barely holding on to a weak tree branch with one hand.
+45 sec | A heroic man breaking a stuck glass window underwater to escape a sinking car in the river.
+50 sec | A young girl running across the roof of a moving, runaway train during a heavy thunderstorm.
+40 sec | A mother desperately trying to open a jammed metal door while floodwaters rise to her waist.
+45 sec | A brave child walking through a ruined, dusty city wearing a gas mask, looking for safe shelter.
+55 sec | A young man leaping across a giant crack in the earth during a massive terrifying earthquake.
+35 sec | A girl holding onto a floating piece of a house roof while violent hurricane winds howl.
+45 sec | A tired father dragging a makeshift wooden raft through the deep mud to save his family.
+50 sec | A teenage boy running through an empty, collapsing stadium, dodging falling metal beams.
+40 sec | A brave woman climbing up a slippery, rusted fire escape ladder in the pouring rain.
+45 sec | A young boy finding a lost flashlight in the dark ruins and turning it on to find his way.
+35 sec | A mother holding her child's hand tightly while walking through a massive, blinding white blizzard.
+50 sec | A heroic teenager diving into a dark stormy river to pull out a drowning stray dog.
+40 sec | A terrified girl running barefoot through a dark, foggy graveyard, escaping a pack of wild shadows.
+45 sec | A young man struggling to hold a heavy wooden door shut against a violent tornado wind.
+55 sec | A brave boy crawling through a narrow, dark air vent in a collapsed building to find a way out.
+35 sec | A woman running down a crumbling spiral staircase as the tower shakes violently from a quake.
+45 sec | A father throwing a life jacket into a raging dark sea to save someone falling from a boat.
+50 sec | A young girl sliding across a frozen lake, hearing the ice crack loudly beneath her boots.
+40 sec | A brave hiker hanging from the edge of a steep rocky cliff, pulling himself up with bleeding hands.
+45 sec | A teenager sprinting through a dark, abandoned tunnel while a massive wall of water rushes behind him.
+35 sec | A mother carrying a heavy backpack running towards a rescue helicopter in a massive dust storm.
+50 sec | A young man dodging falling trees in a heavy jungle monsoon, trying to reach high ground.
+40 sec | A brave girl using a broken wooden plank to paddle through a completely flooded town square.
+45 sec | A terrified boy hiding in a dark closet while shadowy figures break down the house door.
+55 sec | A heroic father pushing a stuck car out of the thick mud while heavy rain pours down.
+35 sec | A young woman running across an old, swaying rope bridge over a deep, dark canyon.
+45 sec | A boy desperately signaling with a bright red flag to a faraway ship in the stormy ocean.
+50 sec | A mother wrapping her jacket around her shivering child in the middle of a freezing snowstorm.
+40 sec | A brave man breaking through a collapsed concrete wall using only a heavy iron pipe.
+45 sec | A teenager running across the top of sinking cargo containers in a chaotic flooded port.
+35 sec | A young girl looking up at the sky, crying emotionally as the rain washes over her face.
+50 sec | A father building a barricade of furniture to stop the rising dark water from entering the room.
+40 sec | A brave young boy leading a group of scared survivors through a dark, dusty ruined street.
+45 sec | A woman dodging falling debris while sprinting out of a collapsing underground parking garage.
+55 sec | A young man standing on a high cliff, looking out at the completely ruined, flooded city below.
